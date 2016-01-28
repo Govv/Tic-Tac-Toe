@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
 
 Gioco non ancora funzionante. 
-Prevesti aggiornamenti.
+Previsti aggiornamenti.
 Stay tuned :D
